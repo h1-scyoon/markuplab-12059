@@ -1,7 +1,2 @@
-cff-version: 1.2.0
-message: m
-title: t
-authors:
-  - family-names: a
-    given-names: b
-preferred-citation: 5
+- a
+- b
