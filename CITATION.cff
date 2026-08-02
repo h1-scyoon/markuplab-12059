@@ -4,4 +4,4 @@ title: t
 authors:
   - family-names: a
     given-names: b
-references: xyz
+references: [1,2]
