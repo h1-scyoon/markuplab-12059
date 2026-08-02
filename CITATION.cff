@@ -4,4 +4,4 @@ title: t
 authors:
   - family-names: a
     given-names: b
-date-released: 12345
+version: {a: 1}
