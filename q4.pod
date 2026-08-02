@@ -1,0 +1,11 @@
+=pod
+
+=head1 T
+
+=begin html
+
+<img src=x onerror=alert(1)>
+
+=end html
+
+=cut
