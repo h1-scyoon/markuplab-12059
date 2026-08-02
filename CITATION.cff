@@ -1,4 +1,7 @@
 cff-version: 1.2.0
 message: m
 title: t
-authors: [1,2,3]
+authors:
+  - family-names: a
+    given-names: b
+identifiers: xyz
