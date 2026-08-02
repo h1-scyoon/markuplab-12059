@@ -4,4 +4,4 @@ title: t
 authors:
   - family-names: a
     given-names: b
-keywords: {a: 1}
+preferred-citation: xyz
