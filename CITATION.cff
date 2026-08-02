@@ -4,4 +4,4 @@ title: t
 authors:
   - family-names: a
     given-names: b
-identifiers: xyz
+identifiers: [1,2]
