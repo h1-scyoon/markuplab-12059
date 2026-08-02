@@ -1,0 +1,7 @@
+* T
+
+#+BEGIN_HTML
+<img src=x onerror=alert(1)>
+#+END_HTML
+
+[[javascript:alert(1)][l]]
