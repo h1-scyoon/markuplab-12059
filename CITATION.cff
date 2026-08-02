@@ -1,4 +1,4 @@
 cff-version: 1.2.0
 message: m
 title: t
-authors: {a: 1}
+authors: [1,2,3]
